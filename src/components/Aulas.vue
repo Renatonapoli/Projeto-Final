@@ -1,5 +1,5 @@
 <template>
-  <div class="videoAulas">
+  <div class="videoAulass">
     <img :src="require(`../assets/images/${image}`)" alt="Imagem" />
     <div class="informacoesAula">
       <h3>{{ title }}</h3>
